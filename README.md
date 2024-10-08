@@ -10,7 +10,7 @@ I'm a Data Analyst with a passion for data science and technology. I enjoy worki
 
 - E-mail: [rgc00023@email.com](mailto:rgc00023@gmail.com)
 - GitHub: [@kirito9623](https://github.com/kirito9623)
-- LinkedInd: [Roberto Gonzalez](https://www.linkedin.com/in/roberto-gonzalez-developer/)
+- LinkedIn: [Roberto Gonzalez](https://www.linkedin.com/in/roberto-gonzalez-developer/)
 - Website: [Portfolio](https://robertogonzalez.streamlit.app/)
 
 ## 🛠️ Technologies & Tools
@@ -31,4 +31,4 @@ I'm a Data Analyst with a passion for data science and technology. I enjoy worki
 
 ![kirito9623's Streak](https://github-readme-streak-stats.herokuapp.com/?user=kirito9623&theme=vue-dark&hide_border=true)
 
-![kirito9623's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kirito9623&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
