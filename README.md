@@ -13,7 +13,7 @@ I'm a Data Analyst with a passion for data science and technology. I enjoy worki
 - LinkedIn: [Roberto Gonzalez](https://www.linkedin.com/in/roberto-gonzalez-developer/)
 - Website: [Portfolio](https://robertogonzalez.streamlit.app/)
 
-## 🛠️ Technologies & Tools
+****## 🛠️ Technologies & Tools
 
 ![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
@@ -23,8 +23,8 @@ I'm a Data Analyst with a passion for data science and technology. I enjoy worki
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Tableau](https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=power-bi&logoColor=black)
-![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
-
+![Excel](https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white)**
+**
 ## 📊 GitHub Stats
 
 ![kirito9623's Stats](https://github-readme-stats.vercel.app/api?username=kirito9623&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
