@@ -5,7 +5,7 @@ I'm a Data Analyst with a passion for data science and technology. I enjoy worki
 - 🚀 I’m currently working on various data analysis projects.
 - 📚 I’m always learning and expanding my skills, currently diving deeper into machine learning and data science techniques.
 - 💡 Ask me about data analysis, machine learning, and predictive modeling.
-- 
+  
 ## 📫 How to reach me:
 
 - E-mail: [rgc00023@email.com](mailto:rgc00023@gmail.com)
